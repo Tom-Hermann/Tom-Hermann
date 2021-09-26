@@ -6,9 +6,11 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/tom-hermann/)
 [![Visits Badge](https://badges.pufler.dev/visits/Tom-Hermann/Epitech-Lobby-Project/)](https://github.com/Tom-Hermann/Epitech-Lobby-Project)
 
-Hi, I'm Tom Hermann, a computer science student. Feel free to share and star if you like a project or if it was useful to you.
+## Hi, I'm Tom Hermann, a computer science student. Feel free to share and star if you like a project or if it was useful to you.
 
-Have a nice life.
+### **Have a nice life**.
+
+---
 
 
 <!-- GitHub stat -->
@@ -40,7 +42,6 @@ Have a nice life.
 
 
 
-
 <details>
 <summary>More Skills</summary>
 <br>
@@ -48,6 +49,10 @@ Have a nice life.
 
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=1A2B34)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=1A2B34)
+
+
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=1A2B34)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=1A2B34)
 
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=1A2B34)
