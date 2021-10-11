@@ -30,7 +30,7 @@
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=1A2B34)
 ![](https://img.shields.io/badge/Library-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=1A2B34)
-![](https://img.shields.io/badge/Library-Keras-informational?style=flat&logo=Keras&logoColor=white&color=1A2B34)
+![](https://img.shields.io/badge/Library-Scikitlearn-informational?style=flat&logo=Scikit-learn&logoColor=white&color=1A2B34)
 
 ![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=Haskell&logoColor=white&color=1A2B34)
 
