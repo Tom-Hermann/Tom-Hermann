@@ -1,5 +1,4 @@
 
- <h2 align="center">🌐 Socials </h2>
 
 <h5 align="center">
 
@@ -43,9 +42,13 @@ I am a student with a particular interest in unsupervised algorithms<br>🎓 I a
 
  <h1 align="center"> 📊 GitHub Stats </h1>
 
+ <h5 align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=Tom-Hermann&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tom-Hermann&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Hermann&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+</h5>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tom-Hermann&icon=0&color=0)](https://visitcount.itsvg.in)
