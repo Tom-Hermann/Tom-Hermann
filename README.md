@@ -34,11 +34,13 @@ I am a student with a particular interest in unsupervised algorithms<br>🎓 I a
 
 <h1 align="center"> 🗃️ Repositories </h1>
 
+<h5>
 <br>
 <div width="100%" align="center"><a align="left" href="https://github.com/Tom-Hermann/Epitech-Lobby-Project" title="Epitech-Lobby-Project"> <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tom-Hermann&repo=Epitech-Lobby-Project&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Tom-Hermann/My-Genetic-Art-Algorithm" title="My-Genetic-Art-Algorithm"> <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tom-Hermann&repo=My-Genetic-Art-Algorithm&theme=react&border_color=61dafb&border_radius=10"></a></div>
+</h5>
 
 
-<br><br>
+<br><br><br><br><br><br>
 
  <h1 align="center"> 📊 GitHub Stats </h1>
 
@@ -51,4 +53,7 @@ I am a student with a particular interest in unsupervised algorithms<br>🎓 I a
 </h5>
 
 ---
+ <h5 align="center">
+
 [![](https://visitcount.itsvg.in/api?id=Tom-Hermann&icon=0&color=0)](https://visitcount.itsvg.in)
+</h5>
