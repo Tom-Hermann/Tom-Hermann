@@ -9,7 +9,7 @@
 
 <h1 align="center"> 💫 About Me </h1>
 
-I am a student with a particular interest in unsupervised algorithms<br>🎓 I am currently doing a masters in artificial intelligence at university of kent.<br>🔬 I have plans to continue on to a PhD<br>💻 I spend more time looking for a project than actually working on it (either I never find an idea or I'm a genius who codes everything in 2 hours, you decide).<br>❓ I'm looking for the time zone I'm set on.<br><br>
+I am a student with a particular interest in reinforcement learning<br>🎓 I am currently doing a masters in artificial intelligence at university of kent.<br>🔬 I have plans to continue on to a PhD<br>💻 I spend more time looking for a project than actually working on it (either I never find an idea or I'm a genius who codes everything in 2 hours, you decide).<br>❓ I'm looking for the time zone I'm set on.<br><br>
 
 
 
